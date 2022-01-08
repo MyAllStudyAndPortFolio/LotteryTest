@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< Updated upstream
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball11to20.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball1to10.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball21to30.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball31to40.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball41to50.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ball51to60.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2630208333333333" />
         <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
-=======
-        <entry key="..\:/Users/Changgeun/AndroidStudioProjects/LotteryPart/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
->>>>>>> Stashed changes
       </map>
     </option>
   </component>
